@@ -17,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		37AF12392533AFA200D397DD /* notarize.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; name = notarize.sh; path = "Camera On Top/notarize.sh"; sourceTree = "<group>"; };
 		37B756AF252A5E1900BFF287 /* Camera On Top.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Camera On Top.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		37B756B2252A5E1900BFF287 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		37B756B4252A5E1900BFF287 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -47,6 +48,7 @@
 			children = (
 				37B756D1252A752800BFF287 /* README.md */,
 				37B756D5252A7B9800BFF287 /* build.sh */,
+				37AF12392533AFA200D397DD /* notarize.sh */,
 				37B756B1252A5E1900BFF287 /* Camera On Top */,
 				37B756B0252A5E1900BFF287 /* Products */,
 			);
